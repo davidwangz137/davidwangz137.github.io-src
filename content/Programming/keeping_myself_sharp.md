@@ -8,3 +8,12 @@ Before I go to Disney Research for my internship I want to get familiar with pan
 I guess I can try to replicate a paper's results like [here](https://www.tensorflow.org/versions/r0.11/tutorials/seq2seq/index.html#sequence-to-sequence-models)
 
 But then I want a computer with a GPU so this doesn't take forever to run. But I can't get a good deal on a laptop before I get to the US since my stipend doesn't arrive until then. Might be time to make a risky decision, but I'd rather wait until the time of best savings.
+
+I really don't want this to take a day:
+
+```python
+    sess.run(optimizer, feed_dict={x: batch_x, y: batch_y,
+                                   seqlen: batch_seqlen})
+```
+
+But if it would take a day then with a GPU it would take an hour. That is fine. Then I can prepare visualization scripts or start coding up the next segment. But a day turnover will severly limit the number of experiments that I can perform.

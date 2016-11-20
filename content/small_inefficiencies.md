@@ -1,0 +1,9 @@
+Title: Small Inefficiencies
+Date: 2016-11-19 8:11
+Category: Productivity
+
+I notice that throughout the day there are periods where my concentration slips and I cannot focus very well. I believe that during these times I should rest in order to recover my energy but I don't. There are periods of being slightly tired and so I've gotten used to pushing forwards until my focus comes back. But when I've actually become fatigued this leads to somewhat terrible time sink of me trying to do something but due to my lack of energy for the whole time it proceeds at half or even slower rate than what I'd have if I could focus.
+
+I wish I could have a better awareness of my mental state. The problem that occurs for detecting lack of energy is that you need to ping for your energy level but if you have low energy then you may forget to ping and then you get into the time sinkhole.
+
+I spend some good amount of time worrying about things as well. Some of the things I worry about are unboundable and really if they happen then it just sucks. I can only live life in a way that minimizes risk. Because I didn't have a good awareness and desire to think about the situation I was in I lost many opportunities and performed quite suboptimally. I believe a stronger situational awareness would have helped me mitigate these problems. So now I prepare, but I still have to find a good balance for how much energy I should spend towards this. There are many rewards for being situationally aware such as the ability to capitalize on opportunities. I don't recall any opportunities that I have cashed in on due to heightened awareness though I'll now try to be more aware and see if I get any positive results. If so, then this would be good motivation. I don't want to drop my guard since everything seems to be going well and then get rekt.

@@ -39,3 +39,7 @@ STATIC_PATHS = ['images', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
             'extra/favicon.ico': {'path': 'favicon.ico'}
             }
+
+# Plugins
+PLUGIN_PATHS = ['/home/dwang/Desktop/pelican-plugins']
+PLUGINS = ['render_math']

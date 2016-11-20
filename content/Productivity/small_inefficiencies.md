@@ -1,6 +1,5 @@
 Title: Small Inefficiencies
 Date: 2016-11-19 8:11
-Category: Productivity
 
 I notice that throughout the day there are periods where my concentration slips and I cannot focus very well. I believe that during these times I should rest in order to recover my energy but I don't. There are periods of being slightly tired and so I've gotten used to pushing forwards until my focus comes back. But when I've actually become fatigued this leads to somewhat terrible time sink of me trying to do something but due to my lack of energy for the whole time it proceeds at half or even slower rate than what I'd have if I could focus.
 

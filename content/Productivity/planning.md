@@ -1,6 +1,5 @@
 Title: Planning Time
 Date: 2016-11-17 9:22
-Category: Planning, Procrastination
 I created this blog to keep me motivated to work hard. By letting everyone see what I've accomplished so far they can fit a local curve to where I should be in some short but significant time interval. Then I will feel some pressure to meet their expectations and become better. If I do become worse, then I can see this in evidence and then try to make things better instead of being in denial ("its not THAT bad"). Though some of the things I do will be risky and not yield any outcome for a long while (and may not even do anything in the end), by exposing them explicitly I won't forget why I'm doing them and how I calculated the reward/risk which let me take the decision.
 
 So why did I choose to write this instead of a journal? I noticed that in my journal my audience is only myself so my writing style never improves. As I publish more of these articles I'll read over them and realize how terrible the style is and then want to slowly improve my writing (since I'll be rereading the articles to check on my progress).

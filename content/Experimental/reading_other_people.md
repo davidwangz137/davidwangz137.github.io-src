@@ -1,6 +1,5 @@
 Title: Reading other People's blogs
 Date: 2016-11-18 10:33
-Category: Inspiration
 
 I've started reading more blogs in order to find out what would be good content for me to put and not create posts which are copies or worse (like Pareto efficient worse) than the posts which currently exist on the internet. I believe it is much better to link those posts. The effects of writing the exact same post can be done better by other means. For example if I have an opinion on a topic and was going to write almost point for point the same post that somebody else had on the topic, it might be better for me to link to the post and hae commentary to specific points and built upon the arguments made. This allows me to refer back to the original post as a reference but also have my own post for my own viewpoint and why I feel that way (my intuition). After all, creating things is very energy intensive. If it is already there then finding a way to use it so that it becomes a part of your intuition (though probably not as much as if you derived it yourself, but still deep enough that you can apply it well) doesn't take up as much effort.
 

@@ -20,14 +20,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+         #('Python.org', 'http://python.org/'),
+         #('Jinja2', 'http://jinja.pocoo.org/'),
+         #('You can modify those links in your config file', '#'),)
+LINKS = (('Slate Star Codex', 'http://slatestarcodex.com/'),
+         ('And from there, the world', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+          #('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -42,4 +44,7 @@ EXTRA_PATH_METADATA = {
 
 # Plugins
 PLUGIN_PATHS = ['/home/dwang/Desktop/pelican-plugins']
-PLUGINS = ['render_math']
+PLUGINS = ['render_math','assets']
+
+# Themes
+THEME = "/home/dwang/Desktop/pelican-themes/cebong"
